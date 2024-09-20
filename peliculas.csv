@@ -1,0 +1,23 @@
+ID,Nombre,Duracion,Genero,Calificaciones
+P001,Interstellar,169,Sci-Fi,4.8
+P002,Inception,148,Sci-Fi,4.7
+P003,The Lion King,88,Animation,2.5
+P004,Titanic,195,Romance,3.9
+P005,Frozen,81,Animation,1.8
+P006,Harry Potter and the Sorcerer's Stone,102,Fantasy,4.4
+P007,Parasite,132,Thriller,2.1
+P008,The Irishman,209,Crime,3.2
+P009,La La Land,128,Musical,1.5
+P010,Moonlight,111,Drama,4.1
+P011,The Social Network,120,Biography,2.7
+P012,Black Panther,134,Action,3.6
+P013,A Star is Born,136,Drama,1.9
+P014,12 Years a Slave,134,Biography,4.8
+P015,The Revenant,156,Adventure,2.3
+P016,Whiplash,107,Drama,4.6
+P017,Mad Max: Fury Road,120,Action,4
+P018,Django Unchained,165,Western,4.4
+P019,The King's Speech,118,Biography,4.5
+P020,Argo,120,Thriller,3.7
+P021,Moonfall,130,Sci-fi,3.2;4.8
+P022,Hola,200,Terror,4.4;4.9;4.9;0.1
